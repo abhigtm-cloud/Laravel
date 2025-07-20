@@ -1,6 +1,6 @@
 <x-layouts>
 <div>
-        <h1>COUSINS</h1>
+        <h1 class="justify-center m-2 px-40">COUSINS</h1>
     </div>
     <ul>
         @foreach ($cousins as $cousi)
